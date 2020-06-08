@@ -95,10 +95,10 @@ def download_missing_files(download_updates, current_english_season,
             #it doesn't exist
             #it's the current season and download updates is True
             #it's the fixture list
-        if ((not os.path.isfile(filename)) or 
+        if (((not os.path.isfile(filename)) or 
             (name[0:4] == current_english_season and download_updates)
             or (url.strip() == "https://www.football-data.co.uk/fixtures.csv" 
-                and download_updates)):
+                and download_updates)) and filename[-3:] == "csv"):
             while number_of_attempts > 0:
                 try:
                     
