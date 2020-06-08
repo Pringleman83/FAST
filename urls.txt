@@ -1,0 +1,279 @@
+#English Leagues
+#football-data notes
+http://www.football-data.co.uk/notes.txt
+#Fixtures
+https://www.football-data.co.uk/fixtures.csv
+#England 1993/1994
+#Premier League
+http://www.football-data.co.uk/mmz4281/9394/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/9394/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/9394/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/9394/E3.csv
+#England 1994/1995
+#Premier League
+http://www.football-data.co.uk/mmz4281/9495/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/9495/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/9495/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/9495/E3.csv
+#England 1995/1996
+#Premier League
+http://www.football-data.co.uk/mmz4281/9596/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/9596/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/9596/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/9596/E3.csv
+#England 1996/1997
+#Premier League
+http://www.football-data.co.uk/mmz4281/9697/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/9697/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/9697/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/9697/E3.csv
+#England 1997/1998
+#Premier League
+http://www.football-data.co.uk/mmz4281/9798/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/9798/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/9798/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/9798/E3.csv
+#England 1998/1999
+#Premier League
+http://www.football-data.co.uk/mmz4281/9899/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/9899/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/9899/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/9899/E3.csv
+#England 1999/2000
+#Premier League
+http://www.football-data.co.uk/mmz4281/9900/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/9900/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/9900/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/9900/E3.csv
+#England 2000/2001
+#Premier League
+http://www.football-data.co.uk/mmz4281/0001/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/0001/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/0001/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/0001/E3.csv
+#England 2001/2002
+#Premier League
+http://www.football-data.co.uk/mmz4281/0102/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/0102/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/0102/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/0102/E3.csv
+#England 2002/2003
+#Premier League
+http://www.football-data.co.uk/mmz4281/0203/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/0203/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/0203/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/0203/E3.csv
+#England 2003/2004
+#Premier League
+http://www.football-data.co.uk/mmz4281/0304/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/0304/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/0304/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/0304/E3.csv
+#England 2004/2005
+#Premier League
+http://www.football-data.co.uk/mmz4281/0405/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/0405/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/0405/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/0405/E3.csv
+#England 2005/2006
+#Premier League
+http://www.football-data.co.uk/mmz4281/0506/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/0506/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/0506/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/0506/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/0506/EC.csv
+#England 2006/2007
+#Premier League
+http://www.football-data.co.uk/mmz4281/0607/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/0607/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/0607/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/0607/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/0607/EC.csv
+#England 2007/2008
+#Premier League
+http://www.football-data.co.uk/mmz4281/0708/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/0708/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/0708/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/0708/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/0708/EC.csv
+#England 2008/2009
+#Premier League
+http://www.football-data.co.uk/mmz4281/0809/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/0809/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/0809/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/0809/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/0809/EC.csv
+#England 2009/2010
+#Premier League
+http://www.football-data.co.uk/mmz4281/0910/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/0910/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/0910/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/0910/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/0910/EC.csv
+#England 2010/2011
+#Premier League
+http://www.football-data.co.uk/mmz4281/1011/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/1011/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/1011/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/1011/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/1011/EC.csv
+#England 2011/2012
+#Premier League
+http://www.football-data.co.uk/mmz4281/1112/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/1112/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/1112/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/1112/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/1112/EC.csv
+#England 2012/2013
+#Premier League
+http://www.football-data.co.uk/mmz4281/1213/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/1213/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/1213/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/1213/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/1213/EC.csv
+#England 2013/2014
+#Premier League
+http://www.football-data.co.uk/mmz4281/1314/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/1314/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/1314/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/1314/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/1314/EC.csv
+#England 2014/2015
+#Premier League
+http://www.football-data.co.uk/mmz4281/1415/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/1415/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/1415/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/1415/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/1415/EC.csv
+#England 2015/2-16
+#Premier League
+http://www.football-data.co.uk/mmz4281/1516/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/1516/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/1516/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/1516/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/1516/EC.csv
+#England 2016/2017
+#Premier League
+http://www.football-data.co.uk/mmz4281/1617/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/1617/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/1617/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/1617/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/1617/EC.csv
+#England 2017/2018
+#Premier League
+http://www.football-data.co.uk/mmz4281/1718/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/1718/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/1718/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/1718/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/1718/EC.csv
+#England 2018/2019
+#Premier League
+http://www.football-data.co.uk/mmz4281/1819/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/1819/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/1819/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/1819/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/1819/EC.csv
+#England 2019/2020
+#Premier League
+http://www.football-data.co.uk/mmz4281/1920/E0.csv
+#Division 1
+http://www.football-data.co.uk/mmz4281/1920/E1.csv
+#Division 2
+http://www.football-data.co.uk/mmz4281/1920/E2.csv
+#Division 3
+http://www.football-data.co.uk/mmz4281/1920/E3.csv
+#Conference
+http://www.football-data.co.uk/mmz4281/1920/EC.csv
+#

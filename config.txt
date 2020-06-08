@@ -1,0 +1,5 @@
+#Configuration file
+#Set the current season for English leagues
+Current English season: 1920
+#Display data cleansing details when data is initally downloaded? (Default 0)
+Display data cleansing information: 0
